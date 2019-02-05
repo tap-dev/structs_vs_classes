@@ -1,6 +1,6 @@
 # Structs vs Classes
 
-A simple playground which explores the differences between Structs and Classes.
+A simple playground which explores the differences between Structs and Classes in Swift.
 
 Read the full blog post at [tapdev][1]
 
